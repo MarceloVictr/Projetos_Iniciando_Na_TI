@@ -1,2 +1,2 @@
 # Projetos_Iniciando_Na_TI
-Meus projetos de iniio...
+Meus projetos de iniio.
